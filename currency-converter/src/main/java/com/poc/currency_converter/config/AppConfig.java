@@ -9,7 +9,7 @@ public class AppConfig {
 
     @Bean
     public RestTemplate restTemplate() {
-
+        //Bean
         return new RestTemplate();
     }
 }
