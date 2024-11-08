@@ -9,7 +9,9 @@ public class AppConfig {
 
     @Bean
     public RestTemplate restTemplate() {
-        //Bean
+
+        //Nirmal
+
         return new RestTemplate();
     }
 }
